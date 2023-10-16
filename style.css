@@ -11,5 +11,13 @@
 }
 
 .light-blue-background {
-    background-color: #e6f3fe;
+    background-color: #f0f7fc;
+}
+
+.blue-background {
+    background-color: #dcedfc;
+}
+
+.custom-margin {
+    margin-right: 15px;
 }
