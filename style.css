@@ -1,0 +1,15 @@
+/* リセットCSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.padded-container {
+    padding: 20px;
+    /* すべての方向に20pxのパディングを適用 */
+}
+
+.light-blue-background {
+    background-color: #e6f3fe;
+}
