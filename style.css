@@ -5,19 +5,6 @@
     box-sizing: border-box;
 }
 
-.padded-container {
+.custom-padding-container {
     padding: 20px;
-    /* すべての方向に20pxのパディングを適用 */
-}
-
-.light-blue-background {
-    background-color: #f0f7fc;
-}
-
-.blue-background {
-    background-color: #dcedfc;
-}
-
-.custom-margin {
-    margin-right: 15px;
 }
